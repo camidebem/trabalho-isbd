@@ -75,8 +75,10 @@ O objetivo do trabalho é implementar o banco de dados, suas restrições, proce
 
 ## Contribuidores
 
-- [Nome do Grupo/Membros do Grupo]
+- Camily Gonçalves de Bem 
+- Paulo Eduardo Pereira Carvalho 
+- Gustavo Costa 
+- Pedro Henrique Cabral 
+- Laura Costa Sarto Barboza
 
 ---
-
-*Este arquivo README serve como guia para entender e executar o projeto SQL, abordando desde a estrutura do banco de dados até a interface com o usuário.*
