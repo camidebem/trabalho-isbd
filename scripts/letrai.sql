@@ -1,3 +1,5 @@
+USE restaurante;
+
 /* Este procedimento recebe o CPF de um funcionário e o novo salário como parâmetros de entrada e atualiza o salário correspondente na tabela Funcionario. */
 DELIMITER //
 CREATE PROCEDURE AtualizarSalario(IN p_CPF VARCHAR(11), IN p_NovoSalario DECIMAL(10,2))
